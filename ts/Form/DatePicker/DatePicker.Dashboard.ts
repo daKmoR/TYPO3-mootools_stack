@@ -14,7 +14,7 @@ plugin.tx_mootoolspackager_pi1.domready {
 			pickerClass = 'datepicker_dashboard'
 			inputOutputFormat = 'd-m-Y'
 			days = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag']
-			months = ['Jänner', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'December']
+			months = ['JÃ¤nner', 'Februar', 'MÃ¤rz', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'December']
 		}
 	}
 }
