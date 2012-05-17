@@ -1,0 +1,9 @@
+[submodule "Resources/Public/Manifests/MootoolsDatepicker"]
+	path = Resources/Public/Manifests/MootoolsDatepicker
+	url = https://github.com/arian/mootools-datepicker.git
+[submodule "Resources/Public/Manifests/Bootstrap"]
+	path = Resources/Public/Manifests/Bootstrap
+	url = https://github.com/anutron/mootools-bootstrap.git
+[submodule "Resources/Public/Manifests/Stack"]
+	path = Resources/Public/Manifests/Stack
+	url = git@github.com:daKmoR/mootools-stack.git
