@@ -7,6 +7,9 @@ plugin.tx_mootoolsessentials {
 		manifests {
 			Stack = EXT:mootools_stack/Resources/Public/Manifests/Stack/
 			MooTools-DatePicker = EXT:mootools_stack/Resources/Public/Manifests/MootoolsDatepicker/
+			Slide = EXT:mootools_stack/Resources/Public/Manifests/Slide/
+			PopUp = EXT:mootools_stack/Resources/Public/Manifests/PopUp/
+			MooGooMaps = EXT:mootools_stack/Resources/Public/Manifests/MooGooMaps/
 		}
 	}
 }
