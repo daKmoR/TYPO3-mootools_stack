@@ -6,13 +6,13 @@
 	url = https://github.com/anutron/mootools-bootstrap.git
 [submodule "Resources/Public/Manifests/Stack"]
 	path = Resources/Public/Manifests/Stack
-	url = git@github.com:daKmoR/mootools-stack.git
+	url = https://github.com/daKmoR/mootools-stack.git
 [submodule "Resources/Public/Manifests/Slide"]
 	path = Resources/Public/Manifests/Slide
-	url = git@github.com:daKmoR/mootools-slide.git
+	url = https://github.com/daKmoR/mootools-slide.git
 [submodule "Resources/Public/Manifests/PopUp"]
 	path = Resources/Public/Manifests/PopUp
-	url = git@github.com:daKmoR/mootools-popup.git
+	url = https://github.com/daKmoR/mootools-popup.git
 [submodule "Resources/Public/Manifests/MooGooMaps"]
 	path = Resources/Public/Manifests/MooGooMaps
-	url = git@github.com:Ciul/MooGooMaps.git
+	url = https://github.com/Ciul/MooGooMaps.git
