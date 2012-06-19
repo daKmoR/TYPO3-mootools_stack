@@ -10,6 +10,7 @@ plugin.tx_mootoolsessentials {
 			Slide = EXT:mootools_stack/Resources/Public/Manifests/Slide/
 			PopUp = EXT:mootools_stack/Resources/Public/Manifests/PopUp/
 			MooGooMaps = EXT:mootools_stack/Resources/Public/Manifests/MooGooMaps/
+			Movie = EXT:mootools_stack/Resources/Public/Manifests/Movie/
 		}
 	}
 }

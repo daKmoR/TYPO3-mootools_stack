@@ -16,3 +16,6 @@
 [submodule "Resources/Public/Manifests/MooGooMaps"]
 	path = Resources/Public/Manifests/MooGooMaps
 	url = https://github.com/Ciul/MooGooMaps.git
+[submodule "Resources/Public/Manifests/Movie"]
+	path = Resources/Public/Manifests/Movie
+	url = https://github.com/daKmoR/mootools-movie
