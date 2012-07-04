@@ -19,3 +19,6 @@
 [submodule "Resources/Public/Manifests/Movie"]
 	path = Resources/Public/Manifests/Movie
 	url = https://github.com/daKmoR/mootools-movie
+[submodule "Resources/Public/Manifests/MooDropMenu"]
+	path = Resources/Public/Manifests/MooDropMenu
+	url = https://github.com/arian/MooDropMenu.git
