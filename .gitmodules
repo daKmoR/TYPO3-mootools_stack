@@ -22,3 +22,6 @@
 [submodule "Resources/Public/Manifests/MooDropMenu"]
 	path = Resources/Public/Manifests/MooDropMenu
 	url = https://github.com/arian/MooDropMenu.git
+[submodule "Resources/Public/Manifests/Flexo"]
+	path = Resources/Public/Manifests/Flexo
+	url = https://github.com/daKmoR/mootools-flexo.git

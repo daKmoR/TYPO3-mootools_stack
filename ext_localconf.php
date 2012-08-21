@@ -13,6 +13,7 @@ plugin.tx_mootoolsessentials {
 			PopUp = EXT:mootools_stack/Resources/Public/Manifests/PopUp/
 			MooGooMaps = EXT:mootools_stack/Resources/Public/Manifests/MooGooMaps/
 			Movie = EXT:mootools_stack/Resources/Public/Manifests/Movie/
+			Flexo = EXT:mootools_stack/Resources/Public/Manifests/Flexo/
 		}
 	}
 }
